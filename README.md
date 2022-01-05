@@ -1,2 +1,2 @@
 # Accordion-Component
-https://wyosarah.github.io/Accordion-Component/
+permalink: /index.html
